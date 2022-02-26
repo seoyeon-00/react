@@ -23,7 +23,7 @@
 //
 // (Just remove the space)
 //
-// So, for example:
+// So, for example:123
 //
 // `DANGER_GITHUB_API_TOKEN=[ENV_ABOVE] yarn danger pr https://github.com/facebook/react/pull/11865
 
